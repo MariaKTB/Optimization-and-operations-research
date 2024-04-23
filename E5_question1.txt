@@ -1,0 +1,8 @@
+THE DUAL PROBLEM : 
+
+Minimize : w = 145y1 + 260y2 + 190y3 
+Subject to :
+1- 5y1 + 4y2 + y3 >= 1 
+2- 2y1 + 8y2 - 8y3 >= 4
+3- 2y1 - 8y2 + 4y3 >= 2 
+4- y1,y2,y3 >= 0 
